@@ -1,0 +1,11 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node Anox.js"
+  },
+  "dependencies": {
+    "axios": "^1.2.0"  // या उपयुक्त संस्करण
+  }
+}
